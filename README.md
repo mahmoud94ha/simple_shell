@@ -42,6 +42,6 @@ The amazing C language.
 
 **Authors**
 
-Mahmoud Hannani - Holberton school student - https://github.com/mahmoud94ha
+Mahmoud Hannani - Holberton school student - [GitHub](https://github.com/mahmoud94ha)
 
-Siwar Ayari - Holberton school student - https://github.com/siwar9910
+Siwar Ayari - Holberton school student - [GitHub](https://github.com/siwar9910)
